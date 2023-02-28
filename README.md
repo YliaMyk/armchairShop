@@ -1,5 +1,5 @@
 # armchairShop
-Homework on the stay from Hotels.ru. 
+Homework for hotels.ru
 
 Responsive layout, flex, grid and sass
 
